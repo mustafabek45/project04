@@ -1,4 +1,5 @@
 merhabad
 mustafa
 test
-cakisma olacak
+cakisma olaca
+deneme remote
